@@ -1,0 +1,18 @@
+﻿  game02.c
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(175,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(193,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(212,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(229,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(246,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(263,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(280,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(297,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(314,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(331,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(348,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(365,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(382,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(393,20): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(129,14): warning C4101: 'aux': variable local sin referencia
+C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\PianoHero\game02.c(600,9): warning C4101: 'idAudioGame': variable local sin referencia
+  PianoHero.vcxproj -> C:\Users\Usuario\Desktop\UNI\Programazioa\PBL\PianoHero-main\PianoHero\Debug\PianoHero.exe
